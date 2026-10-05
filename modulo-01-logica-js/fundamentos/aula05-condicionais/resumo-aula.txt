@@ -1,0 +1,12 @@
+// ============================================================
+// RESUMO FINAL — O que você aprendeu:
+// ============================================================
+// Comparações    → > < >= <= == === != !== (prefira sempre ===)
+// Lógicos        → && (E), || (OU), ! (NÃO), avaliação de curto-circuito
+// if / else      → decisão com dois caminhos
+// else if        → decisão com múltiplos caminhos sequenciais
+// Ternário       → condição ? valorA : valorB (único operador de 3 operandos)
+// switch         → opções fixas com ===; fall-through intencional com cases agrupados
+// ?? (nullish)   → valor padrão seguro: só substitui null ou undefined
+// ?.             → optional chaining: acesso seguro a propriedades que podem ser null
+// Truthy / Falsy → 6 valores falsy; todo o resto é truthy; use !! ou Boolean() para ver
