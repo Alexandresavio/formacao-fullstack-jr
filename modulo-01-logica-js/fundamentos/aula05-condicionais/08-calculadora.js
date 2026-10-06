@@ -28,12 +28,12 @@ switch (op) {
         if (v2 !== 0) {
             resultado = v1 / v2;
         } else {
-            console.log("❌ Erro: divisão por zero é matematicamente indefinida!");
+            console.log(" Erro: divisão por zero é matematicamente indefinida!");
             resultado = undefined;
         }
         break;
     default:
-        console.log("❌ Operação inválida! Use +, -, * ou /");
+        console.log(" Operação inválida! Use +, -, * ou /");
         resultado = undefined;
         break;
 }
