@@ -25,14 +25,3 @@ while(contador <= 10){
     contador++;
 }
 console.log(`Toatal da soma é: ${soma}`);
-
-// Solitar ao usuário um numero e mostrar a tabuada deste numero
-const prompt = require('prompt-sync')();
-
-let cont = 0;
-let valor = prompt("Desja calcular a tabuada de qual valor?")
-
-while(cont <= 10){
-    let resultado = (cont * valor);
-    let tabuada = (`${cont} X ${valor} = `);
-}
