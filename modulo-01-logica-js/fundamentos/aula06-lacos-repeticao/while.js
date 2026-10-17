@@ -24,4 +24,4 @@ while(contador <= 10){
     soma += contador;
     contador++;
 }
-console.log(`Toatal da soma é: ${soma}`);
+console.log(`Total da soma é: ${soma}`);
